@@ -44,6 +44,7 @@ Baixa o svg e usa filho
   |
   <img align="center" alt="Clisman-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <!--img align="right" alt="Clisman-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"-->
+  <!--img align="center" alt="Clisman-notion" height="30" width="40" -->
 </div>
 
 ##
@@ -64,3 +65,20 @@ Links:
   <a href="https://www.linkedin.com/in/matheusclisman/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://t.me/cl1sman" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
+  
+ <!-- Github workflow; github action
+-->
+
+  
+  <!-- Video: Como personalizar o seu perfil no Github (Readme):https://youtu.be/TsaLQAetPLU
+
+links:
+Links mencionados no vídeo:
+Repositório do roteiro desse vídeo: https://github.com/rafaballerini/Perf...
+Repositório do meu perfil - https://github.com/rafaballerini/rafa...
+Guia de markdown - https://docs.pipz.com/central-de-ajud...
+Site de emojis - https://emojipedia.org/search/?q=bag
+Repositório do Github Stats - https://github.com/anuraghazra/github...
+Site de Badges 1 - https://dev.to/envoy_/150-badges-for-...
+Fazedor de gifs - https://picrew.me/image_maker/338224
+Passo a passo de como adicionar a cobrinha de commit - https://www.instagram.com/p/CPjUBhXDNEE/
