@@ -82,3 +82,9 @@ Repositório do Github Stats - https://github.com/anuraghazra/github...
 Site de Badges 1 - https://dev.to/envoy_/150-badges-for-...
 Fazedor de gifs - https://picrew.me/image_maker/338224
 Passo a passo de como adicionar a cobrinha de commit - https://www.instagram.com/p/CPjUBhXDNEE/
+-->
+
+
+ <!-- Cobrinha -->
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
