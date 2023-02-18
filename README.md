@@ -88,4 +88,4 @@ Passo a passo de como adicionar a cobrinha de commit - https://www.instagram.com
 
  <!-- Cobrinha -->
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
