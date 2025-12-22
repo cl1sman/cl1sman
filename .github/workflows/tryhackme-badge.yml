@@ -1,27 +1,22 @@
-name: Update TryHackMe Badge
+name: TryHackMe Update Badge
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # updates every 6 hours
+    # Run every 24 hours
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
-  update-badge:
+  tryhackme-badge-update:
+    name: Update TryHackMe badge
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download TryHackMe badge
-        run: |
-          mkdir -p assets
-          curl -o assets/tryhackme-badge.svg \
-            "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1576"
-
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add assets/tryhackme-badge.svg
-          git commit -m "Update TryHackMe badge" || exit 0
-          git push
+      - name: Update TryHackMe badge
+        uses: p4p1/tryhackme-badge-workflow@main
+        with:
+          username: "hight"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
