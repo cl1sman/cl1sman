@@ -25,5 +25,7 @@ Grato por sua visita 😁
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cl1sman&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
 <!--![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cl1sman&layout=compact&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF)-->
 
-## Badges
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1576" style="border:none; width:100%; height:300px;"></iframe>
+## 🧠 TryHackMe
+
+![TryHackMe Badge](assets/tryhackme-badge.svg)
+
