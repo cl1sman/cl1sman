@@ -1,18 +1,26 @@
-name: TryHackMe Update Badge
+name: Update TryHackMe Static Badge
 
 on:
   schedule:
-    # Make it run every 24 hour
     - cron: '0 0 * * *'
   workflow_dispatch:
+
 jobs:
-  tryhackme-badge-update:
-    name: Update this repo's tryhackme badge with the latest tryhackme image badge
+  update-badge:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: p4p1/tryhackme-badge-workflow@main
-        with:
-          # Replace with your tryhackme username
-          username: "KernelCurly"
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      - uses: actions/checkout@v4
+
+      - name: Download static TryHackMe badge
+        run: |
+          mkdir -p assets
+          curl -o assets/tryhackme.png \
+          https://tryhackme-badges.s3.amazonaws.com/KernelCurly.png
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/tryhackme.png
+          git commit -m "Update TryHackMe static badge" || exit 0
+          git push
