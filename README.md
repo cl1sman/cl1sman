@@ -27,6 +27,6 @@ Grato por sua visita 😁
 
 ## 🧠 TryHackMe
 
-![TryHackMe Stats](https://raw.githubusercontent.com/cl1sman/cl1sman/master/assets/thm_propic.png)
+![TryHackMe Badge](assets/tryhackme.png)
 
 
