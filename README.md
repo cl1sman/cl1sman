@@ -4,7 +4,7 @@ Computer Engineering undergraduate focused on **cybersecurity** and hands-on lea
 
 I am interested in understanding how systems work, how they fail, and how they can be protected. My current studies cover **offensive and defensive security fundamentals**, networking, monitoring, vulnerability analysis, and automation with Python.
 
-I actively practice on platforms such as **TryHackMe** and **Hack The Box**, aiming to build solid technical foundations and practical experience. I enjoy learning, documenting my progress, and sharing knowledge whenever possible.
+I actively practice on platforms such as **TryHackMe**, **Hack The Box** and **LetsDefend**, aiming to build solid technical foundations and practical experience. I enjoy learning, documenting my progress, and sharing knowledge whenever possible.
 
 This repository contains notes, experiments, and projects developed throughout my academic and technical journey.
 
@@ -12,18 +12,28 @@ This repository contains notes, experiments, and projects developed throughout m
 
 ## 🔗 Connect with me
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=30A3DC)](mailto:contatoclisman@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/clismanmariano/)
-
+[![E-mail](https://img.shields.io/badge/-Email-000?style=flat&logo=microsoft-outlook&logoColor=30A3DC)](mailto:contatoclisman@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clismanmariano/)
 ---
 
 ## 🛠️ Technologies & Tools
 
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
-[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Linux](https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
-[![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=Notion)](https://www.notion.so/)
+[![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=falt&logo=github)](https://docs.github.com/)
+[![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)](https://www.debian.org/)
+[![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Notion](https://img.shields.io/badge/Notion-000?style=flat&logo=Notion)](https://www.notion.so/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=Wireshark)](https://www.wireshark.org/)
+[![Curl](https://img.shields.io/badge/Curl-073551?style=flat&logo=Curl)](https://curl.se/)
+
+<!--
+To find icons: https://simpleicons.org/?q=curl
+Search the icon, copy the code, and put in:
+[![Tool](https://img.shields.io/badge/Tool-CODE-YOU-FIND?style=flat&logo=Tool)](https://)
+-->
+
+
 
 
 ---
